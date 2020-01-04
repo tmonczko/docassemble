@@ -227,7 +227,7 @@ This will not always be reliable, because an error might happen before
 the user's language is known.
 
 <a name="show login">The [`metadata`] block also accepts the specifier
-`show login`, which can be `true` or `false`.  This controls whether
+`show login`, which can be `True` or `False`.  This controls whether
 the user sees a "Sign in or sign up to save answers" link in the upper
 right-hand corner during the interview.  If `show login` is not
 specified in the [`metadata`], the [Configuration] directive [`show
